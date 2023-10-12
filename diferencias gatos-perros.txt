@@ -1,0 +1,24 @@
+variables que se necesitan para identificar perros y gatos
+
+-cola
+-nariz
+-garras
+-bigotes
+-orejas
+
+tipos de perros
+
+-tamaño
+-forma
+-pelaje
+-tamaño orejas
+-forma de ocico
+-tamaño de patas
+
+tipos de gatos
+
+-tamaños de patas
+-compleccion
+-pelaje
+-color
+-forma de oreja
